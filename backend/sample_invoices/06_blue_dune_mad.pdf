@@ -1,0 +1,161 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1716 >>
+stream
+BT
+/F1 18 Tf
+48 744 Td
+(INVOICE) Tj
+ET
+BT
+/F1 10 Tf
+48 726 Td
+(Blue Dune Printworks \(DEMO\)) Tj
+ET
+BT
+/F1 10 Tf
+48 710 Td
+(Address: 7 Avenue des FAR, Marrakech, Morocco) Tj
+ET
+BT
+/F1 10 Tf
+48 694 Td
+(Supplier tax ID: MA-SAMPLE-006) Tj
+ET
+BT
+/F1 10 Tf
+48 678 Td
+(Supplier ICE: 003456789000078) Tj
+ET
+BT
+/F1 10 Tf
+48 662 Td
+(Email: accounts@bluedune.example    Phone: +212 524 00 00 06) Tj
+ET
+BT
+/F1 10 Tf
+48 646 Td
+(BILL TO: Northstar Design Studio \(DEMO\)) Tj
+ET
+BT
+/F1 10 Tf
+48 630 Td
+(Client address: 42 Rue Oued Ziz, Casablanca, Morocco) Tj
+ET
+BT
+/F1 10 Tf
+48 614 Td
+(Client tax ID: MA-SAMPLE-CLIENT-001) Tj
+ET
+BT
+/F1 10 Tf
+48 598 Td
+(Client ICE: 001234567000089) Tj
+ET
+BT
+/F1 10 Tf
+48 582 Td
+(Invoice number: DEMO-2026-006) Tj
+ET
+BT
+/F1 10 Tf
+48 566 Td
+(Invoice date: 2026-10-24    Due date: 2026-11-23) Tj
+ET
+BT
+/F1 10 Tf
+48 550 Td
+(Currency: MAD) Tj
+ET
+BT
+/F1 10 Tf
+48 534 Td
+() Tj
+ET
+BT
+/F1 10 Tf
+48 518 Td
+(DESCRIPTION                 QTY       UNIT PRICE       TAX) Tj
+ET
+BT
+/F1 10 Tf
+48 502 Td
+(A4 marketing brochures       500            8.00        20%) Tj
+ET
+BT
+/F1 10 Tf
+48 486 Td
+(Business cards             1000            1.50        20%) Tj
+ET
+BT
+/F1 10 Tf
+48 470 Td
+(Artwork and setup fee          1          700.00        20%) Tj
+ET
+BT
+/F1 10 Tf
+48 454 Td
+() Tj
+ET
+BT
+/F1 10 Tf
+48 438 Td
+(Subtotal: MAD 6,200.00) Tj
+ET
+BT
+/F1 10 Tf
+48 422 Td
+(Tax: MAD 1,240.00) Tj
+ET
+BT
+/F1 10 Tf
+48 406 Td
+(TOTAL DUE: MAD 7,440.00) Tj
+ET
+BT
+/F1 10 Tf
+48 390 Td
+(Payment terms: Net 30 days) Tj
+ET
+BT
+/F1 10 Tf
+48 374 Td
+(Payment method: Bank transfer) Tj
+ET
+BT
+/F1 10 Tf
+48 358 Td
+(Bank: Demo Bank Maroc    IBAN: MA64 0000 0000 0000 0000 0000 006) Tj
+ET
+BT
+/F1 10 Tf
+48 342 Td
+(Reference: DEMO-2026-006) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002008 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2078
+%%EOF
